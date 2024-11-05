@@ -1,2 +1,2 @@
-# Repositorio-de-autenticacoes-DIO
+# Repositório-de-autenticações-DIO
 Repositório de testes de autenticações.
